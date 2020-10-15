@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(231, 179, 6);    
+}
+
+.icono li{
+    display: block;
+}
+
+.icono i{
+    color: rgba(0, 0, 0, .9);
+}
+
+.tittles {
+    color: rgba(0, 0, 0, .9);
+}
+
+.back {
+    font-size: 0.8rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.text {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.header-content .menu {
+    height: 1000px;
+    width: 1000px;
+}
+
+

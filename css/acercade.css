@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(231, 179, 6);
+}
+
+.text {
+    text-align: justify;
+    background-position: center;
+    text-align: center;
+}
+
+.text p{
+    background-position: center;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.text h2{
+    font-size: 2.2rem;
+    text-align: center;
+}
+
+.text .principal{
+    font-size: 3rem;
+}
+
+.icono li{
+    display: block;
+}
+
+.icono i{
+    color: rgba(0, 0, 0, .9);
+}
+
+.tittles {
+    color: rgba(0, 0, 0, .9);
+}
+
+.back {
+    font-size: 0.8rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
